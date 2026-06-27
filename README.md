@@ -1,6 +1,6 @@
 # 🏠 Roofer AGC - Responsive Business Website
 
-A modern and responsive business landing page built using HTML, CSS, Bootstrap, and JavaScript. This project showcases a clean UI with multiple sections including Hero, Services, Blog, and Contact.
+A modern and responsive business landing page built using HTML, CSS and  Bootstrap. This project showcases a clean UI with multiple sections including Hero, Services, Blog, and Contact.
 
 ## 📸 Preview
 
@@ -13,7 +13,7 @@ A modern and responsive business landing page built using HTML, CSS, Bootstrap, 
 
 ## 🚀 Live Demo
 
-🔗 https://your-live-demo-link.com
+🔗 [https://your-live-demo-link.com](https://senshagor.github.io/boostrap-1st-project/)
 
 ---
 
